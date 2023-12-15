@@ -1,11 +1,3 @@
-# ID          Name
-# 1007881     Annie Chan 
-# 1008162     Skipper Smahon
-# 1008250     Alicia Choy
-# 1008164     Hui Wan Sheng
-# 1008204     Rebecca Tan
-# 1008016     Matthew Phua
-
 # Libraries to Import
 from math import *
 import webbrowser, os, random, copy
