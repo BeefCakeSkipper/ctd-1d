@@ -1,4 +1,4 @@
-This is a game that my group coded for one of my modules in university. This is just a fun project that I may update with my friend in the future.
+> This is a game that my group coded for one of my modules in university. This is just a fun project that I may update with my friend in the future.
 
 
                   HOW TO PLAY THE SUTD LIFE SIMULATOR              
